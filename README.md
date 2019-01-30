@@ -1,24 +1,16 @@
-# README
+# A propos du projet The Hacking Class
+The Hacking Class est un site d'éducation en ligne. Dans ce site il y aura des élèves (table Student) qui peuvent s'inscrire à un seul cours (table Course). Un cours pourra avoir plusieurs élèves.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Instructions
+Utiliser rails console dans le terminal pour avoir accès aux BDD.
 
-Things you may want to cover:
+# Versions
+- Ruby 2.5.1 p57
+- RoR 5.2.2.
+- Active Records
+- + gem Faker
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Auteurs
+- Mathieu PIERRE @Mathieu PIERRE
+- Bérénice Bourgon @Bérénice
+Merci pour la correction !
